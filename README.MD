@@ -48,5 +48,5 @@ Para criar o espaço de trabalho do Azure Machine Learning, uma instância de co
  rm -r azure-ml-labs -f
  git clone https://github.com/MicrosoftLearning/mslearn-azure-ml.git azure-ml-labs
 ```
-
-![img1]:https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/shell1.png
+![alt text][img1]
+[img1]:https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/shell1.png

@@ -24,4 +24,4 @@ Para criar o espaço de trabalho do Azure Machine Learning, uma instância de co
 
 1 . Em um navegador, abra o portal do Azure em https://portal.azure.com/, entrando com sua conta da Microsoft.
 
-![alt text] (https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/b77d81da8cc517b0a911c9c4596af15f2189ab74/img/shell.png)
+![alt text] (https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/b77d81da8cc517b0a911c9c4596af15f2189ab74/img/shell.png "Bash")

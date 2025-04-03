@@ -50,4 +50,28 @@ Para criar o espaço de trabalho do Azure Machine Learning, uma instância de co
 ```
 ![alt text][imagem1]
 
-[imagem1]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/shell1.png "Guia Shell"
+[imagem1]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/shell1.png "Guia Shell1"
+
+
+6. Após o repositório ser clonado, digite os seguintes comandos para alterar a pasta deste laboratório e execute o script setup.sh que ele contém:
+```
+ cd azure-ml-labs/Labs/06
+ ./setup.sh
+```
+
+## Clonar os materiais do laboratório
+Depois de criar o espaço de trabalho e os recursos de computação necessários, você pode abrir o estúdio do Azure Machine Learning e clonar os materiais de laboratório no espaço de trabalho.
+
+1. No portal do Azure, navegue até o espaço de trabalho do Azure Machine Learning chamado mlw-dp100-… .
+2. Selecione o espaço de trabalho do Azure Machine Learning e, na página Overview , selecione Launch studio . Outra aba será aberta no seu navegador para abrir o Azure Machine Learning Studio.
+3. Feche todos os pop-ups que aparecerem no estúdio.
+4. No Azure Machine Learning Studio, navegue até a página Compute e verifique se a instância de computação e o cluster que você criou na seção anterior existem. A instância de computação deve estar em execução, o cluster deve estar ocioso e ter 0 nós em execução.
+5. Na guia Instâncias de computação , encontre sua instância de computação e selecione o aplicativo Terminal .
+6. No terminal, instale o Python SDK na instância de computação executando os seguintes comandos no terminal:
+
+```python
+
+ pip uninstall azure-ai-ml
+ pip install azure-ai-ml
+
+ ```

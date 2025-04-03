@@ -22,7 +22,18 @@ Você usará a CLI do Azure para provisionar o espaço de trabalho e a computaç
 
 Para criar o espaço de trabalho do Azure Machine Learning, uma instância de computação e um cluster de computação, você usará o Azure CLI. Todos os comandos necessários são agrupados em um script Shell para você executar.
 
-1 . Em um navegador, abra o portal do Azure em https://portal.azure.com/, entrando com sua conta da Microsoft.
+1. Em um navegador, abra o portal do Azure em https://portal.azure.com/, entrando com sua conta da Microsoft.
+
+
+2. Selecione o botão [>_] ( Cloud Shell ) no topo da página à direita da caixa de pesquisa. Isso abre um painel do Cloud Shell na parte inferior do portal
 ![alt text][logo]
 
 [logo]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/b77d81da8cc517b0a911c9c4596af15f2189ab74/img/shell.png "Bash"
+
+3. Selecione Bash se solicitado. Na primeira vez que você abrir o cloud shell, será solicitado que você escolha o tipo de shell que deseja usar ( Bash ou PowerShell ).
+
+![alt text][logo]
+
+[logo]:
+
+

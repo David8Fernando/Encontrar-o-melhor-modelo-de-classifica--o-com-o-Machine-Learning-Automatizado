@@ -36,4 +36,15 @@ Para criar o espaço de trabalho do Azure Machine Learning, uma instância de co
 
 [bash]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/bash.png "Bash"
 
+4. Verifique se a assinatura correta está especificada e se Nenhuma conta de armazenamento necessária está selecionada. Selecione Aplicar .
 
+![alt text][guiashell]
+
+[guiashell]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/guiashell.png "Bash"
+
+5. No terminal, digite os seguintes comandos para clonar este repositório:
+
+```
+ rm -r azure-ml-labs -f
+ git clone https://github.com/MicrosoftLearning/mslearn-azure-ml.git azure-ml-labs
+```

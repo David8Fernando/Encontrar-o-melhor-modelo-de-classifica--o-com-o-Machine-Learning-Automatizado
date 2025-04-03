@@ -65,7 +65,11 @@ Depois de criar o espaço de trabalho e os recursos de computação necessários
 1. No portal do Azure, navegue até o espaço de trabalho do Azure Machine Learning chamado mlw-dp100-… .
 2. Selecione o espaço de trabalho do Azure Machine Learning e, na página Overview , selecione Launch studio . Outra aba será aberta no seu navegador para abrir o Azure Machine Learning Studio.
 3. Feche todos os pop-ups que aparecerem no estúdio.
-4. No Azure Machine Learning Studio, navegue até a página Compute e verifique se a instância de computação e o cluster que você criou na seção anterior existem. A instância de computação deve estar em execução, o cluster deve estar ocioso e ter 0 nós em execução.
+4. No Azure Machine Learning Studio, navegue até a página Compute(Computação) e verifique se a instância de computação e o cluster que você criou na seção anterior existem. A instância de computação deve estar em execução, o cluster deve estar ocioso e ter 0 nós em execução.
+
+![alt text][imagem2]
+
+[imagem2]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/computacao.png "Computação - Compute"
 5. Na guia Instâncias de computação , encontre sua instância de computação e selecione o aplicativo Terminal .
 6. No terminal, instale o Python SDK na instância de computação executando os seguintes comandos no terminal:
 

@@ -28,12 +28,12 @@ Para criar o espaço de trabalho do Azure Machine Learning, uma instância de co
 2. Selecione o botão [>_] ( Cloud Shell ) no topo da página à direita da caixa de pesquisa. Isso abre um painel do Cloud Shell na parte inferior do portal
 ![alt text][logo]
 
-[logo]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/b77d81da8cc517b0a911c9c4596af15f2189ab74/img/shell.png "Bash"
+[logo]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/b77d81da8cc517b0a911c9c4596af15f2189ab74/img/shell.png "Shell"
 
 3. Selecione Bash se solicitado. Na primeira vez que você abrir o cloud shell, será solicitado que você escolha o tipo de shell que deseja usar ( Bash ou PowerShell ).
 
 ![alt text][logo]
 
-[logo]:
+[logo]: https://github.com/David8Fernando/Encontrar-o-melhor-modelo-de-classifica--o-com-o-Machine-Learning-Automatizado/blob/main/img/bash.png "Bash"
 
 
